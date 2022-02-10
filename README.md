@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+##Deployed Page: https://evanpauly.github.io/horiseon-assignment/
+
 ## Assignment to fix a codebase to match a mockup with functionality and semantic elements
 
 ![image](https://user-images.githubusercontent.com/94558036/153468362-336de79c-5ed2-47e9-b68d-e69114bfc041.png)
